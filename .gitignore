@@ -1,0 +1,5 @@
+# ignore replay files
+*.hlt
+*.log
+*.zip
+/hlt_client/*
